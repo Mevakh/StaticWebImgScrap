@@ -7,8 +7,8 @@ const puppeteer = require('puppeteer');
 const baseUrl = 'URL';
 const downloadPath = 'Select Download Folder';
 
-const startChapter = 1;
-const endChapter = 293;
+const startChapter = "enter starting number";
+const endChapter = "enter end number";
 
 
 (async () => {
